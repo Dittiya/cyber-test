@@ -1,2 +1,2 @@
-# cyber-test
-Test repository
+@echo off
+echo Hello
